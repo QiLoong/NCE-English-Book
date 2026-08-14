@@ -1,7 +1,7 @@
 {
-  "bookName": "NCE",
-  "bookLevel": "1st Level",
-  "bookCover": "NCE1.jpg",
+  "name": "NCE",
+  "level": "1st Level",
+  "cover": "NCE1.jpg",
   "units": [
     {
       "title": "001&002.Excuse Me",

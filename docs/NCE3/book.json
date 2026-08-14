@@ -1,7 +1,7 @@
 {
-  "bookName": "NCE",
-  "bookLevel": "3st Level",
-  "bookCover": "NCE3.jpg",
+  "name": "NCE",
+  "level": "3rd Level",
+  "cover": "NCE3.jpg",
   "units": [
     {
       "title": "01.A Puma at Large",

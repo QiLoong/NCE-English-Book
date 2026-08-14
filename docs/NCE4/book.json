@@ -1,7 +1,7 @@
 {
-  "bookName": "NCE",
-  "bookLevel": "4st Level",
-  "bookCover": "NCE4.jpg",
+  "name": "NCE",
+  "level": "4th Level",
+  "cover": "NCE4.jpg",
   "units": [
     {
       "title": "01.Finding Fossil Man",

@@ -1,7 +1,7 @@
 {
-  "bookName": "NCE",
-  "bookLevel": "2st Level",
-  "bookCover": "NCE2.jpg",
+  "name": "NCE",
+  "level": "2nd Level",
+  "cover": "NCE2.jpg",
   "units": [
     {
       "title": "01.A Private Conversation",
